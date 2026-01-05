@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hackGab
-- 👀 I’m interested in programmation
+- 👀 I’m interested in games programmation
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriellaplante@outlook.com
 
 <!---
